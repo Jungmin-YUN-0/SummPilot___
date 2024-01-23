@@ -2,7 +2,10 @@
 SummPilot: Bridging Efficiency and Customization for Interactive Summarization System
 
 
-The code for this project will continue to be updated.
+SummPilot is an interaction-based customizable summarization system, leveraging a Large Language Model (LLM).
+
+- Website for Demonstration: http://summpilot.com/
+- Demo Video: https://youtu.be/iYvy7jBAAfU
 
 
 
